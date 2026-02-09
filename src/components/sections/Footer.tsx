@@ -169,8 +169,8 @@ export default function Footer() {
                 />
               </Link>
               <p className="mt-6 text-sm leading-relaxed text-independence">
-                We combine strategy, creativity, and technology to help brands
-                grow in the modern digital landscape.
+                We combine expertise, innovation, and technology to help
+                businesses thrive in the modern digital landscape.
               </p>
               <div className="mt-8 flex overflow-hidden rounded-full border border-azureish-white bg-white transition-shadow duration-300 focus-within:border-primary/30 focus-within:shadow-md">
                 <input
@@ -246,7 +246,7 @@ export default function Footer() {
       {/* Copyright */}
       <div className="border-t border-azureish-white py-6">
         <div className="mx-auto max-w-[83rem] px-5 text-center text-xs text-eerie-black/60 md:px-[3.75rem]">
-          &copy; 2025 Copyright -{" "}
+          &copy; 2026 Copyright -{" "}
           <Link href="/" className="text-eerie-black hover:text-primary">
             Digitalia
           </Link>{" "}

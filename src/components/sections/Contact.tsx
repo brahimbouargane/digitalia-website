@@ -9,7 +9,7 @@ import SectionTitle from "../ui/SectionTitle";
 
 gsap.registerPlugin(ScrollTrigger);
 
-const projectTypes = ["Development", "UI/UX Design", "Branding", "Marketing"];
+const projectTypes = ["Software Development", "Cloud & Infrastructure", "Data & AI", "IT Consulting"];
 
 export default function Contact() {
   const sectionRef = useRef<HTMLElement>(null);
@@ -136,9 +136,9 @@ export default function Contact() {
           data-reveal
           className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-independence"
         >
-          At Digitalia, we offer a full range of creative and digital services
-          designed to help brands stand out and succeed in a fast-evolving
-          digital world.
+          At Digitalia, we offer a full range of IT solutions and services
+          designed to help businesses innovate and succeed in a fast-evolving
+          digital landscape.
         </p>
       </div>
 
@@ -180,7 +180,7 @@ export default function Contact() {
             {/* Right column — form */}
             <div className="flex-1">
               <label className="mb-4 block text-base font-semibold text-white">
-                Tell us about your projects
+                Tell us about your project
                 <span className="text-accent">*</span>
               </label>
 

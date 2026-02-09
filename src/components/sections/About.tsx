@@ -10,7 +10,7 @@ import SectionSubtitle from "../ui/SectionSubtitle";
 gsap.registerPlugin(ScrollTrigger);
 
 const stats = [
-  { value: "50+", label: "Global Brand Partners" },
+  { value: "50+", label: "Global Business Partners" },
   { value: "95%", label: "Client Satisfaction Rate" },
   { value: "125+", label: "Projects Delivered" },
   { value: "4", label: "Subsidiaries Worldwide" },
@@ -194,8 +194,8 @@ export default function About() {
               data-reveal
               className="font-instrument text-2xl font-semibold leading-snug text-eerie-black md:text-3xl lg:text-[2.75rem] lg:leading-[1.3]"
             >
-              We transform ideas into exceptional digital experiences, pushing
-              the boundaries of innovation{" "}
+              We turn complex challenges into powerful IT solutions, driving
+              digital transformation{" "}
               <span className="text-primary">
                 while staying true to our core values.
               </span>

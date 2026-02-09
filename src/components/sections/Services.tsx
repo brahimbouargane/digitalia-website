@@ -162,9 +162,9 @@ export default function Services() {
                 <SectionTitle text="Discover Our" highlight="Services." />
               </div>
               <p className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-independence">
-                At Digitalia, we provide a comprehensive range of services
-                designed to help you achieve your business goals with ease and
-                efficiency.
+                At Digitalia, we deliver end-to-end IT solutions and services
+                designed to streamline your operations, strengthen your
+                infrastructure, and accelerate your growth.
               </p>
             </div>
 

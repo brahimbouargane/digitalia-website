@@ -12,7 +12,7 @@ const testimonials = [
   {
     img: "https://cdn.prod.website-files.com/690a3d4b70be67fbdfcdc08a/690bdc0f2ee4b12eb394e7fd_testimonial-01.avif",
     quote:
-      "Digitalia completely redefined our online presence. Their team delivered a stunning website and a brand strategy that drove a 40% increase in leads within three months.",
+      "Digitalia completely transformed our IT infrastructure. Their team delivered a robust system and a digital strategy that drove a 40% increase in operational efficiency within three months.",
     name: "Sarah Mitchell",
     role: "Marketing Director at Vantage Co.",
   },
@@ -115,8 +115,8 @@ export default function Testimonials() {
           saying
         </h2>
         <p className="mt-4 text-lg text-independence">
-          Hear from the brands we have helped grow through strategy, design, and
-          technology.
+          Hear from the businesses we have helped transform through innovative IT
+          solutions and technology.
         </p>
       </div>
 

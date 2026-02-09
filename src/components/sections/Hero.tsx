@@ -95,13 +95,13 @@ export default function Hero() {
               data-reveal
               className="font-instrument text-4xl font-bold leading-tight text-eerie-black md:text-5xl lg:text-[3.5rem]"
             >
-              Crafting Modern
+              Delivering Smart
             </h2>
 
             <div data-reveal className="mt-2 flex items-center gap-3 md:gap-4">
               <span className="inline-block h-px w-10 bg-eerie-black/30 sm:w-16" />
               <span className="font-instrument text-4xl font-bold leading-tight text-primary md:text-5xl lg:text-[3.5rem]">
-                Vision For the
+                IT Solutions For
               </span>
             </div>
 
@@ -109,16 +109,16 @@ export default function Hero() {
               data-reveal
               className="mt-1 font-instrument text-4xl font-bold leading-tight text-eerie-black md:text-5xl lg:text-[3.5rem]"
             >
-              Ambitious Brands
+              Growing Businesses
             </h2>
 
             <p
               data-reveal
               className="mt-5 max-w-lg text-sm leading-relaxed text-independence sm:text-base md:mt-8"
             >
-              We blend creativity with strategy to build digital experiences
-              that move brands forward — from standout websites to scalable
-              digital platforms.
+              We design and build tailored IT solutions that drive efficiency,
+              accelerate growth, and empower businesses to thrive in a
+              digital-first world.
             </p>
 
             <div data-reveal className="mt-5 md:mt-8">
@@ -138,8 +138,8 @@ export default function Hero() {
                 key={i}
                 className="px-4 font-instrument text-3xl font-bold italic uppercase sm:px-6 md:text-5xl"
               >
-                <span className="text-primary">Real Results</span>
-                <span className="text-eerie-black"> * Modern Design * </span>
+                <span className="text-primary">Smart Solutions</span>
+                <span className="text-eerie-black"> * Real Results * </span>
               </span>
             ))}
           </div>

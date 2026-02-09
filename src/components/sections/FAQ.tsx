@@ -14,12 +14,12 @@ const faqs = [
   {
     serial: "question 01",
     q: "What services does Digitalia offer?",
-    a: "Digitalia provides end-to-end digital solutions, including web design, development, branding, digital marketing, UI/UX strategy, and SEO optimization — all tailored to help your business grow online.",
+    a: "Digitalia provides end-to-end IT solutions, including custom software development, cloud infrastructure, data analytics, AI & machine learning, and IT consulting — all tailored to help your business grow and operate more efficiently.",
   },
   {
     serial: "question 02",
     q: "How long does a typical project take?",
-    a: "Timelines vary depending on the scope and complexity of the project. A typical branding or web design project ranges from 4 to 8 weeks, while larger projects may take longer.",
+    a: "Timelines vary depending on the scope and complexity of the project. A typical software development or cloud migration project ranges from 4 to 12 weeks, while larger enterprise solutions may take longer.",
   },
   {
     serial: "question 03",
@@ -113,8 +113,8 @@ export default function FAQ() {
             data-reveal
             className="mx-auto mt-4 max-w-xl text-sm leading-relaxed text-independence"
           >
-            Find answers to common questions about our services, process, and
-            how we can help your business succeed.
+            Find answers to common questions about our IT solutions, process,
+            and how we can help your business succeed.
           </p>
         </div>
 
