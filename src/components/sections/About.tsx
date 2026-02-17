@@ -190,16 +190,16 @@ export default function About() {
 
           {/* Right: Heading + CTA */}
           <div ref={headingRef} className="lg:w-[72%]">
-            <h3
+            <h2
               data-reveal
               className="font-instrument text-2xl font-semibold leading-snug text-eerie-black md:text-3xl lg:text-[2.75rem] lg:leading-[1.3]"
             >
-              We turn complex challenges into powerful IT solutions, driving
-              digital transformation{" "}
+              Digital Transformation Experts in Morocco — We turn complex
+              challenges into powerful IT solutions{" "}
               <span className="text-primary">
                 while staying true to our core values.
               </span>
-            </h3>
+            </h2>
             <div data-reveal className="mt-10">
               <PrimaryButton text="Get In Touch" href="#contact" />
             </div>

@@ -1,0 +1,12 @@
+# Robots.txt for Digitalia Agency
+# https://digitalia.agency
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://digitalia.agency/sitemap.xml
+
+# Disallow admin and API paths
+User-agent: *
+Disallow: /api/

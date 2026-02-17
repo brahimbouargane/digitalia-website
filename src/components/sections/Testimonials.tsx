@@ -12,30 +12,30 @@ const testimonials = [
   {
     img: "https://cdn.prod.website-files.com/690a3d4b70be67fbdfcdc08a/690bdc0f2ee4b12eb394e7fd_testimonial-01.avif",
     quote:
-      "Digitalia completely transformed our IT infrastructure. Their team delivered a robust system and a digital strategy that drove a 40% increase in operational efficiency within three months.",
-    name: "Sarah Mitchell",
-    role: "Marketing Director at Vantage Co.",
+      "Digitalia helped us modernize our internal systems and streamline production tracking. The team was responsive, professional, and really understood our operational challenges.",
+    name: "Karim Benslimane",
+    role: "IT Manager at Sotherma",
   },
   {
     img: "https://cdn.prod.website-files.com/690a3d4b70be67fbdfcdc08a/690bd925b25e4977e16716b4_testimonial-01.avif",
     quote:
-      "From initial concept to final launch, working with Digitalia was seamless. They understood our vision and translated it into a platform that our customers love.",
-    name: "James Thornton",
-    role: "CEO at NovaTech Solutions",
+      "We needed a reliable partner to build our data platform from scratch. Digitalia delivered on time and the dashboards they created have become essential to how we monitor energy efficiency across the country.",
+    name: "Nadia El Alaoui",
+    role: "Head of Digital Projects at AMEE",
   },
   {
     img: "https://cdn.prod.website-files.com/690a3d4b70be67fbdfcdc08a/690bdc0fb904580e2cfb6384_testimonial-03.avif",
     quote:
-      "Their expertise in AI and cloud solutions helped us automate key processes and cut operational costs by 30%. Digitalia is a true technology partner.",
-    name: "Amira Farouk",
-    role: "CTO at Meridian Group",
+      "Working with Digitalia on our cloud migration was a smooth experience. They handled the complexity well and kept us informed at every stage. Solid team, solid results.",
+    name: "Youssef Tazi",
+    role: "Operations Director at Samsung Cheil",
   },
   {
     img: "https://cdn.prod.website-files.com/690a3d4b70be67fbdfcdc08a/690bdc0f66c58365048232f1_f42ccc803ca6a5b200d46bd9e59441de_testimonial-04.avif",
     quote:
-      "The data dashboards Digitalia built give us real-time insights that have transformed how we make decisions. Professional, responsive, and highly recommended.",
-    name: "David Chen",
-    role: "VP of Operations at Apex Industries",
+      "Digitalia built a custom reporting tool that saves our team hours every week. Their approach was practical, and they took the time to understand our specific needs in the insurance sector.",
+    name: "Hind Berrada",
+    role: "Digital Transformation Lead at Sanlam Maroc",
   },
 ];
 

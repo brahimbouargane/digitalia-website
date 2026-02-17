@@ -169,7 +169,7 @@ export default function Contact() {
               <div className="mt-8 overflow-hidden rounded-2xl">
                 <Image
                   src="/images/contactus.jpg"
-                  alt="Our team"
+                  alt="Digitalia team — IT consulting and digital transformation experts in Casablanca"
                   width={500}
                   height={350}
                   className="h-56 w-full object-cover sm:h-64 md:h-72"

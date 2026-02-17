@@ -9,9 +9,9 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 const socials = [
-  { name: "Facebook", href: "https://www.facebook.com/", icon: "f" },
-  { name: "LinkedIn", href: "https://www.linkedin.com/", icon: "in" },
-  { name: "Instagram", href: "https://www.instagram.com/", icon: "📷" },
+  { name: "Facebook", href: "https://www.facebook.com/digitalia.agency", icon: "f" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/company/digitalia-agency", icon: "in" },
+  { name: "Instagram", href: "https://www.instagram.com/digitalia.agency", icon: "📷" },
 ];
 
 const mainPages = [
@@ -162,15 +162,16 @@ export default function Footer() {
               <Link href="/">
                 <Image
                   src="/logos/DIGITALIA-DARK.svg"
-                  alt="Digitalia"
+                  alt="Digitalia — Digital agency in Casablanca, Morocco"
                   width={100}
                   height={28}
                   className="h-24 w-auto"
                 />
               </Link>
               <p className="mt-6 text-sm leading-relaxed text-independence">
-                We combine expertise, innovation, and technology to help
-                businesses thrive in the modern digital landscape.
+                Digitalia is a Casablanca-based IT solutions company specializing
+                in custom software development, AI, cloud services, and digital
+                transformation for businesses in Morocco and worldwide.
               </p>
               <div className="mt-8 flex overflow-hidden rounded-full border border-azureish-white bg-white transition-shadow duration-300 focus-within:border-primary/30 focus-within:shadow-md">
                 <input

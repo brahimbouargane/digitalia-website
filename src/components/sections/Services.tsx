@@ -12,7 +12,8 @@ gsap.registerPlugin(ScrollTrigger);
 
 const services = [
   {
-    name: "Software Development",
+    name: "Custom Software Development",
+    alt: "Custom software development services — web and mobile applications by Digitalia",
     description:
       "Customized software solutions and applications tailored to your business needs. Mobile and web applications with modern, high-performance interfaces.",
     image: "/images/service1.webp",
@@ -20,7 +21,8 @@ const services = [
     bg: "bg-alice-blue",
   },
   {
-    name: "Data Analytics",
+    name: "Data Analytics & Business Intelligence",
+    alt: "Data analytics and business intelligence dashboards for informed decision-making",
     description:
       "Transform raw data into actionable insights for informed decision-making. Interactive dashboards for precise monitoring and efficient data management.",
     image: "/images/service2.webp",
@@ -28,7 +30,8 @@ const services = [
     bg: "bg-primary/10",
   },
   {
-    name: "Cloud Solutions",
+    name: "Secure Cloud Solutions & Migration",
+    alt: "Secure cloud architecture and migration services for scalable infrastructure",
     description:
       "Scalable and secure infrastructure for optimal flexibility. Real-time scalability, advanced security standards, and hybrid cloud solutions.",
     image: "/images/service3.webp",
@@ -36,7 +39,8 @@ const services = [
     bg: "bg-diamond",
   },
   {
-    name: "AI & Machine Learning",
+    name: "AI & Machine Learning Integration",
+    alt: "AI and machine learning solutions for business automation and intelligent systems",
     description:
       "Transform your business with AI-driven solutions and intelligent systems. Task automation, chatbot design, and adaptive AI for specific business needs.",
     image: "/images/service4.webp",
@@ -44,7 +48,8 @@ const services = [
     bg: "bg-primary/10",
   },
   {
-    name: "Digital Consulting",
+    name: "Strategic IT Consulting & Digital Transformation",
+    alt: "Digital transformation consulting and strategic IT guidance for businesses in Morocco",
     description:
       "Strategic guidance for successful digital evolution. Comprehensive process auditing, transformation strategy, and continuous operational optimization.",
     image: "/images/service5.webp",
@@ -204,7 +209,7 @@ export default function Services() {
                   >
                     <Image
                       src={s.image}
-                      alt={s.name}
+                      alt={s.alt}
                       width={700}
                       height={500}
                       className="h-full w-full object-cover"

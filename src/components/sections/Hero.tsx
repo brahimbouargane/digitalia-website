@@ -64,7 +64,7 @@ export default function Hero() {
       <div ref={contentRef} className="absolute inset-0 opacity-0">
         <Image
           src="/images/Banner-Image.jpg"
-          alt=""
+          alt="Digitalia — IT solutions and digital transformation agency in Casablanca, Morocco"
           fill
           className="object-cover"
           priority
@@ -91,34 +91,34 @@ export default function Hero() {
           className="absolute inset-0 flex items-end justify-center pb-28 md:items-center md:justify-end md:pb-0"
         >
           <div className="w-full px-6 md:max-w-[45%] md:px-0 md:pr-16 lg:pr-20">
-            <h2
+            <h1
               data-reveal
               className="font-instrument text-4xl font-bold leading-tight text-eerie-black md:text-5xl lg:text-[3.5rem]"
             >
-              Delivering Smart
-            </h2>
+              Empowering Businesses
+            </h1>
 
             <div data-reveal className="mt-2 flex items-center gap-3 md:gap-4">
               <span className="inline-block h-px w-10 bg-eerie-black/30 sm:w-16" />
               <span className="font-instrument text-4xl font-bold leading-tight text-primary md:text-5xl lg:text-[3.5rem]">
-                IT Solutions For
+                With Custom IT,
               </span>
             </div>
 
-            <h2
+            <p
               data-reveal
               className="mt-1 font-instrument text-4xl font-bold leading-tight text-eerie-black md:text-5xl lg:text-[3.5rem]"
             >
-              Growing Businesses
-            </h2>
+              Cloud & AI Solutions
+            </p>
 
             <p
               data-reveal
               className="mt-5 max-w-lg text-sm leading-relaxed text-independence sm:text-base md:mt-8"
             >
-              We design and build tailored IT solutions that drive efficiency,
-              accelerate growth, and empower businesses to thrive in a
-              digital-first world.
+              Tailored software development, data analytics, and digital
+              transformation services in Casablanca that drive growth and
+              operational efficiency.
             </p>
 
             <div data-reveal className="mt-5 md:mt-8">

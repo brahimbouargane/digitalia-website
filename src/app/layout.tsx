@@ -119,9 +119,9 @@ export const metadata: Metadata = {
     creator: "@digitalia_ma",
     site: "@digitalia_ma",
   },
-  verification: {
-    google: "your-google-verification-code",
-  },
+  // verification: {
+  //   google: "ADD_YOUR_GOOGLE_VERIFICATION_CODE_HERE",
+  // },
   category: "technology",
   icons: {
     icon: "/images/favicon.ico",
@@ -241,7 +241,6 @@ export default function RootLayout({
                 },
               ],
               priceRange: "$$",
-              servesCuisine: "Digital Services",
               hasOfferCatalog: {
                 "@type": "OfferCatalog",
                 name: "Services Digitaux",
@@ -307,6 +306,59 @@ export default function RootLayout({
                 "@id": "https://digitalia.agency/#organization",
               },
               inLanguage: ["fr-MA", "fr-FR", "en", "ar-MA"],
+            }),
+          }}
+        />
+
+        {/* FAQ Schema for Rich Results */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              mainEntity: [
+                {
+                  "@type": "Question",
+                  name: "What services does Digitalia offer?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Digitalia provides end-to-end IT solutions, including custom software development, cloud infrastructure, data analytics, AI & machine learning, and IT consulting — all tailored to help your business grow and operate more efficiently.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "How long does a typical project take?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Timelines vary depending on the scope and complexity of the project. A typical software development or cloud migration project ranges from 4 to 12 weeks, while larger enterprise solutions may take longer.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "Do you work with clients worldwide?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Yes, we work with clients globally. Our team is equipped to collaborate remotely and deliver high-quality results regardless of location or time zone.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "How can we get started with Digitalia?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Simply reach out through the contact form or send us an email. We'll schedule a discovery call to understand your needs and goals, then propose a tailored plan.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "How much do your services cost?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Our pricing depends on the scope, complexity, and deliverables of each project. We provide custom quotes after understanding your specific needs during our initial consultation.",
+                  },
+                },
+              ],
             }),
           }}
         />

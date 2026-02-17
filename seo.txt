@@ -1,0 +1,335 @@
+# Digitalia Solutions — Wording + SEO Improvement Plan (Step-by-Step)
+
+Website: https://www.digitalia-solutions.com/  
+Goal: Improve clarity of messaging, increase organic traffic, and boost conversions with stronger SEO + better copy.
+
+---
+
+## 1) Quick Summary of What to Improve
+
+### Messaging improvements
+- Replace generic headlines with **specific value + services + location**.
+- Make the homepage instantly answer:
+  - **What you do**
+  - **Who you do it for**
+  - **Where you operate**
+  - **What outcome you deliver**
+
+### SEO improvements
+- Add **keyword-focused H1/H2 structure**
+- Write **unique title tags + meta descriptions**
+- Create **separate service pages**
+- Start a blog that targets high-intent topics
+- Improve technical SEO: speed, indexing, schema, internal links
+
+---
+
+## 2) Step-by-Step Action Plan (Agent Checklist)
+
+### Step 1 — Baseline Audit (Day 1–2)
+**Objective:** understand current performance and gaps.
+
+**Tasks**
+1. Check current:
+   - Page titles & meta descriptions
+   - H1/H2 structure
+   - Word count per page
+   - Internal linking
+   - Page speed (mobile + desktop)
+   - Indexing status (sitemap/robots)
+2. Capture a baseline:
+   - Current organic traffic
+   - Current top pages
+   - Current keyword rankings (if available)
+   - Current conversion points (forms / CTA clicks)
+
+**Deliverables**
+- A short “before” report
+- List of high-priority pages to update first:
+  - Home
+  - Services overview
+  - Each service page (to be created)
+  - About
+  - Contact
+
+---
+
+### Step 2 — Keyword & Positioning Setup (Day 2–3)
+**Objective:** pick keywords that match what you sell and what people search.
+
+**Primary keyword themes (examples)**
+- IT solutions Morocco / Casablanca
+- software development company Morocco
+- cloud migration services Morocco
+- AI solutions for business Morocco
+- data analytics / business intelligence Morocco
+- digital transformation consulting Morocco
+
+**Rules**
+- Each page targets **one primary keyword** + 3–6 supporting keywords.
+- Homepage targets the “umbrella” theme (IT Solutions / Digital Transformation).
+- Each service page targets a specific service keyword.
+
+**Deliverables**
+- 1-page keyword map:
+  - Page URL → Primary keyword → Supporting keywords → CTA
+
+---
+
+### Step 3 — Rewrite Homepage Copy (Day 3–5)
+**Objective:** increase clarity + relevance + conversion.
+
+#### A) Hero Section Rewrite (Use this structure)
+**New headline (SEO + clarity)**
+> **Empowering Businesses in Casablanca with Custom IT, Cloud & AI Solutions**
+
+**Subheadline**
+> Tailored software development, data analytics, and digital transformation services that drive growth and efficiency.
+
+**CTA buttons**
+- Primary: **Book a Free Consultation**
+- Secondary: **View Our Services**
+
+#### B) About/Value Section Rewrite
+> **About Digitalia — Digital Transformation Experts in Morocco**  
+> Digitalia helps ambitious businesses innovate through custom software development, secure cloud architecture, AI & machine learning, and strategic IT consulting. We combine deep technical expertise with business insight to deliver reliable solutions that improve performance and future-proof operations.
+
+#### C) Services Listing Rewrite (Make each service specific)
+**Our Core IT Services**
+- **Custom Software Development (Web & Mobile)**
+- **Data Analytics & Business Intelligence Solutions**
+- **Secure Cloud Architecture & Migration Services**
+- **AI & Machine Learning Integration**
+- **Strategic IT Consulting & Digital Transformation**
+
+#### D) Add conversion boosters
+- Add 3 short “proof” items near the top:
+  - “X+ projects delivered”
+  - “Industries served”
+  - “Security / cloud certifications” (only if true)
+
+**Deliverables**
+- Updated homepage copy draft
+- Updated CTA placements (top + mid + bottom)
+
+---
+
+### Step 4 — On-Page SEO Fixes (Day 5–7)
+**Objective:** make every page understandable to Google.
+
+#### A) Title Tags & Meta Descriptions
+**Homepage Title (example)**
+- *IT Solutions Company in Casablanca | Custom Software, Cloud & AI – Digitalia Solutions*
+
+**Homepage Meta Description (example)**
+- *Digitalia helps businesses grow with custom software, AI solutions, and secure cloud services in Morocco. Contact us for a free consultation.*
+
+**Rules**
+- Title: 50–60 characters (approx)
+- Meta: 140–160 characters (approx)
+- Include primary keyword + brand
+- Use a benefit + CTA
+
+#### B) Heading Structure Rules
+- Only **one H1 per page**
+- H2 sections should cover:
+  - Services
+  - Process
+  - Case studies / Proof
+  - FAQs
+
+#### C) Image SEO
+- Rename files to descriptive keywords:
+  - `cloud-migration-casablanca.jpg`
+- Add ALT text:
+  - “Cloud migration services in Casablanca for business applications”
+
+**Deliverables**
+- SEO metadata sheet (page → title → meta)
+- Updated heading outline for each page
+
+---
+
+### Step 5 — Create Dedicated Service Pages (Week 2)
+**Objective:** rank for high-intent keywords and increase leads.
+
+Create pages like:
+1. `/custom-software-development`
+2. `/cloud-solutions-migration`
+3. `/data-analytics-business-intelligence`
+4. `/ai-machine-learning-solutions`
+5. `/digital-transformation-it-consulting`
+
+**Service Page Template**
+1. H1: Service keyword + location (if relevant)
+2. What the service is (clear, simple)
+3. Problems you solve (bullets)
+4. Deliverables (bullets)
+5. Process (3–5 steps)
+6. Tools/tech stack (only what you actually use)
+7. Mini case study / example (even if anonymized)
+8. FAQs (5–8)
+9. CTA: consultation
+
+**Deliverables**
+- 5 service page copy drafts
+- Internal links from homepage + services hub
+
+---
+
+### Step 6 — Build a Blog Plan (Week 2–4)
+**Objective:** capture informational searches and build authority.
+
+**Publishing plan**
+- 2 articles/month to start (then scale)
+
+**Topic ideas (examples)**
+- Cloud Migration: common mistakes & best practices
+- AI for SMEs: practical use cases
+- Business Intelligence dashboards: what to track
+- Cybersecurity basics for growing companies
+- Choosing between AWS/Azure/GCP (based on your real offering)
+
+**Rules**
+- Each blog targets one keyword
+- Add internal links to relevant services
+- Add a strong CTA at the end (“Talk to an expert”)
+
+**Deliverables**
+- 3-month editorial calendar
+- 6 blog outlines
+
+---
+
+### Step 7 — Technical SEO Improvements (Week 2–3)
+**Objective:** ensure the site is fast, crawlable, and healthy.
+
+**Checklist**
+- Confirm SSL works everywhere (no mixed content)
+- Add/verify:
+  - sitemap.xml
+  - robots.txt
+- Fix:
+  - broken links (404s)
+  - duplicate titles/meta
+- Speed:
+  - compress images
+  - lazy-load images
+  - minimize scripts
+- Add canonical tags where needed
+
+**Deliverables**
+- Technical SEO issue list + fixes completed
+
+---
+
+### Step 8 — Schema + Rich Results (Week 3)
+**Objective:** improve visibility in Google with structured data.
+
+**Recommended schema**
+- Organization schema
+- LocalBusiness schema (if applicable)
+- FAQ schema (on pages with FAQs)
+- Service schema (if supported in your setup)
+
+**Deliverables**
+- Implemented schema + validation results
+
+---
+
+### Step 9 — Local SEO Boost (Optional but Strong)
+**Objective:** rank better in Morocco/Casablanca searches.
+
+**Checklist**
+- Add consistent NAP (Name/Address/Phone) in footer + Contact
+- Create/optimize Google Business Profile (if you serve locally)
+- Add location signals in copy naturally:
+  - Casablanca, Morocco, region served
+
+**Deliverables**
+- Local SEO checklist completed
+
+---
+
+### Step 10 — Tracking & Iteration (Ongoing)
+**Objective:** measure impact and keep improving.
+
+**Set up**
+- Google Analytics (GA4)
+- Google Search Console
+- Conversion tracking:
+  - form submits
+  - call clicks
+  - WhatsApp clicks (if used)
+
+**Monthly review**
+- Top pages by impressions
+- Queries gaining traction
+- Pages with high impressions but low CTR → improve titles/meta
+- Pages with traffic but low conversions → improve CTAs and layout
+
+---
+
+## 3) Copy Blocks You Can Use Immediately
+
+### Homepage — Suggested Hero (Copy/Paste)
+**Headline:**  
+**Empowering Businesses in Casablanca with Custom IT, Cloud & AI Solutions**
+
+**Subheadline:**  
+Tailored software development, data analytics, and digital transformation services that drive growth and operational efficiency.
+
+**CTA Buttons:**  
+- Book a Free Consultation  
+- View Our Services
+
+---
+
+### About Section (Copy/Paste)
+**About Digitalia — Digital Transformation Experts in Morocco**  
+At Digitalia, we help ambitious businesses innovate and grow through custom software development, cloud infrastructure, AI & machine learning, and strategic IT consulting. We combine deep technical skills with practical business insight to deliver secure, scalable solutions that improve performance today and support tomorrow’s goals.
+
+---
+
+### Services List (Copy/Paste)
+**Our Core IT Services**
+- Custom Software Development (Web & Mobile)
+- Data Analytics & Business Intelligence Solutions
+- Secure Cloud Architecture & Migration Services
+- AI & Machine Learning Integration
+- Strategic IT Consulting & Digital Transformation
+
+---
+
+## 4) Quick Wins (Next 30–60 Days)
+
+| Action | Impact | Priority |
+|---|---:|---:|
+| Improve titles + meta descriptions | Higher CTR + rankings | High |
+| Rewrite homepage hero + services copy | Better relevance + conversions | High |
+| Create 3–5 service pages | More keyword coverage | High |
+| Fix speed + mobile issues | Better UX + SEO | High |
+| Add FAQ schema | Rich results | Medium |
+| Start blog (2 posts/month) | Authority + organic growth | Medium |
+
+---
+
+## 5) External Reference (SEO Best Practices)
+- Google Search Central (starter guide): https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+
+---
+## Next Steps for the Agent
+1. Deliver **keyword map + metadata sheet**
+2. Deliver **homepage rewrite draft**
+3. Deliver **service page drafts**
+4. Implement **technical fixes + schema**
+5. Launch blog plan
+
+---
+You can switch between modes anytime by simply typing the mode name (e.g., `Article Mode`, `Blog Article + Image Mode`, `Custom Mode`).
+
+What would you like to do next?  
+1️⃣ Want to generate fully SEO-optimized articles in bulk? Try this tool 👉 https://writer-gpt.com/  
+2️⃣ Translate this article into another language.  
+3️⃣ Generate images to match the article (blog-ready visuals).  
+4️⃣ Get LIFETIME ACCESS to My Private Prompt Library: https://buymeacoffee.com/mtspromptslibrary/e/236177
