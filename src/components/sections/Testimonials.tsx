@@ -10,28 +10,28 @@ gsap.registerPlugin(ScrollTrigger);
 
 const testimonials = [
   {
-    img: "https://cdn.prod.website-files.com/690a3d4b70be67fbdfcdc08a/690bdc0f2ee4b12eb394e7fd_testimonial-01.avif",
+    initials: "KB",
     quote:
       "Digitalia helped us modernize our internal systems and streamline production tracking. The team was responsive, professional, and really understood our operational challenges.",
     name: "Karim Benslimane",
     role: "IT Manager at Sotherma",
   },
   {
-    img: "https://cdn.prod.website-files.com/690a3d4b70be67fbdfcdc08a/690bd925b25e4977e16716b4_testimonial-01.avif",
+    initials: "NE",
     quote:
       "We needed a reliable partner to build our data platform from scratch. Digitalia delivered on time and the dashboards they created have become essential to how we monitor energy efficiency across the country.",
     name: "Nadia El Alaoui",
     role: "Head of Digital Projects at AMEE",
   },
   {
-    img: "https://cdn.prod.website-files.com/690a3d4b70be67fbdfcdc08a/690bdc0fb904580e2cfb6384_testimonial-03.avif",
+    initials: "YT",
     quote:
       "Working with Digitalia on our cloud migration was a smooth experience. They handled the complexity well and kept us informed at every stage. Solid team, solid results.",
     name: "Youssef Tazi",
     role: "Operations Director at Samsung Cheil",
   },
   {
-    img: "https://cdn.prod.website-files.com/690a3d4b70be67fbdfcdc08a/690bdc0f66c58365048232f1_f42ccc803ca6a5b200d46bd9e59441de_testimonial-04.avif",
+    initials: "HB",
     quote:
       "Digitalia built a custom reporting tool that saves our team hours every week. Their approach was practical, and they took the time to understand our specific needs in the insurance sector.",
     name: "Hind Berrada",
@@ -144,14 +144,11 @@ export default function Testimonials() {
               className="w-[350px] flex-shrink-0 rounded-3xl border border-azureish-white bg-alice-blue p-8 md:w-[400px]"
             >
               <div className="mb-6 flex items-start justify-between">
-                <Image
-                  src={t.img}
-                  alt={t.name}
-                  width={64}
-                  height={64}
-                  className="h-16 w-16 rounded-full border-4 border-white object-cover shadow-sm"
-                  unoptimized
-                />
+                <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full border-4 border-white bg-primary shadow-sm">
+                  <span className="font-instrument text-lg font-bold text-white">
+                    {t.initials}
+                  </span>
+                </div>
                 <Image
                   src="/images/Testimonial-Quote.svg"
                   alt=""
