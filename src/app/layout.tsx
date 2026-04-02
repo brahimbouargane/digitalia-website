@@ -184,14 +184,14 @@ export default function RootLayout({
               contactPoint: [
                 {
                   "@type": "ContactPoint",
-                  telephone: "+212-600-000-000",
+                  telephone: "+212-661-255458",
                   email: "contact@digitalia.agency",
                   contactType: "customer service",
                   availableLanguage: ["French", "English", "Arabic"],
                 },
                 {
                   "@type": "ContactPoint",
-                  telephone: "+212-600-000-000",
+                  telephone: "+212-661-255458",
                   contactType: "sales",
                   availableLanguage: ["French", "English", "Arabic"],
                 },
@@ -217,7 +217,7 @@ export default function RootLayout({
               name: "Digitalia - Agence Digitale Casablanca",
               image: "https://digitalia.agency/logos/DIGITALIA-DARK.png",
               url: "https://digitalia.agency",
-              telephone: "+212-600-000-000",
+              telephone: "+212-661-255458",
               email: "contact@digitalia.agency",
               address: {
                 "@type": "PostalAddress",

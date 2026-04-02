@@ -232,10 +232,10 @@ export default function Footer() {
                     contact@digitalia.agency
                   </a>
                   <a
-                    href="tel:+212600000000"
+                    href="tel:+212661255458"
                     className="text-sm text-independence transition-colors hover:text-primary"
                   >
-                    +212 600 000 000
+                    +212 661-255458
                   </a>
                 </div>
               </div>
@@ -247,6 +247,21 @@ export default function Footer() {
       {/* Copyright */}
       <div className="border-t border-azureish-white py-6">
         <div className="mx-auto max-w-[83rem] px-5 text-center text-xs text-eerie-black/60 md:px-[3.75rem]">
+          <div className="mb-2 flex items-center justify-center gap-3">
+            <Link
+              href="/privacy-policy"
+              className="text-eerie-black/60 transition-colors hover:text-primary"
+            >
+              Privacy Policy
+            </Link>
+            <span className="text-eerie-black/30">|</span>
+            <Link
+              href="/terms"
+              className="text-eerie-black/60 transition-colors hover:text-primary"
+            >
+              Terms of Use
+            </Link>
+          </div>
           &copy; 2026 Copyright -{" "}
           <Link href="/" className="text-eerie-black hover:text-primary">
             Digitalia
