@@ -136,7 +136,7 @@ export default function RootLayout({
 }) {
   return (
     <html
-      lang="fr"
+      lang="en"
       className={`${instrumentSans.variable} ${poppins.variable}`}
     >
       <head>
@@ -165,7 +165,7 @@ export default function RootLayout({
               },
               description:
                 "Agence digitale à Casablanca spécialisée en création de sites web, développement d'applications, intelligence artificielle, solutions cloud et data analytics.",
-              foundingDate: "2024",
+              foundingDate: "2015",
               foundingLocation: "Casablanca, Morocco",
               areaServed: [
                 { "@type": "Country", name: "Morocco" },
@@ -175,7 +175,7 @@ export default function RootLayout({
               ],
               address: {
                 "@type": "PostalAddress",
-                streetAddress: "Casablanca",
+                streetAddress: "Zenith II Lotissement Attaoufik",
                 addressLocality: "Casablanca",
                 addressRegion: "Casablanca-Settat",
                 postalCode: "20000",
@@ -185,7 +185,7 @@ export default function RootLayout({
                 {
                   "@type": "ContactPoint",
                   telephone: "+212-661-255458",
-                  email: "contact@digitalia.agency",
+                  email: "support@digitalia-solutions.com",
                   contactType: "customer service",
                   availableLanguage: ["French", "English", "Arabic"],
                 },
@@ -218,10 +218,10 @@ export default function RootLayout({
               image: "https://digitalia.agency/logos/DIGITALIA-DARK.png",
               url: "https://digitalia.agency",
               telephone: "+212-661-255458",
-              email: "contact@digitalia.agency",
+              email: "support@digitalia-solutions.com",
               address: {
                 "@type": "PostalAddress",
-                streetAddress: "Casablanca",
+                streetAddress: "Zenith II Lotissement Attaoufik",
                 addressLocality: "Casablanca",
                 addressRegion: "Casablanca-Settat",
                 postalCode: "20000",
